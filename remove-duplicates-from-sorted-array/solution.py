@@ -4,7 +4,7 @@ from collections import deque
 inf = float("inf")
 
 class Solution:
-    def removeElement(self, nums: List[int]) -> int:
+    def removeDuplicates(self, nums: List[int]) -> int:
         deq = deque()
         last = float("-inf")
         keep_count = 0
@@ -19,8 +19,6 @@ class Solution:
             else:
                 nums[i] = inf
                 deq.append(i)
-                    
-            
         return keep_count
 
 
