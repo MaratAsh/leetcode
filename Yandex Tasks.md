@@ -7,7 +7,7 @@
 - [x] [One Edit Distance](https://leetcode.com/problems/edit-distance/description/) ([solution](./edit-distance/))
 - [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) ([solution](./reverse-linked-list/))
 - [x] [Summary Ranges](https://leetcode.com/problems/summary-ranges/) ([solution](./summary-ranges/))
-- [ ] Valid Anagram
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) ([solution](./valid-anagram/))
 - [ ] Move Zeroes
 - [ ] Line Reflection
 - [ ] Is Subsequence
