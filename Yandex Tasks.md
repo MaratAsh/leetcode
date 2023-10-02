@@ -1,0 +1,47 @@
+- [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [solution](./longest-substring-without-repeating-characters/)
+- [x] Valid Parentheses
+- [x] Merge Two Sorted Lists
+- [x] Trapping Rain Water
+- [x] Validate Binary Search Tree
+- [x] [Single Number](https://leetcode.com/problems/single-number/description/)
+- [ ] [One Edit Distance](https://leetcode.com/problems/edit-distance/description/) [solution](./edit-distance/)
+- [ ] Reverse Linked List
+- [ ] Summary Ranges
+- [ ] Valid Anagram
+- [ ] Move Zeroes
+- [ ] Line Reflection
+- [ ] Is Subsequence
+- [ ] Find All Anagrams in a String
+- [ ] String Compression
+- [ ] Max Consecutive Ones II
+- [ ] Subarray Sum Equals K
+- [ ] Permutation in String
+- [ ] Max Stack
+- [ ] Maximize Distance to Closest Person
+- [ ] Longest Subarray of 1's After Deleting One Element
+
+2023 January [source](https://i.imgur.com/VtHZVeu.png)
+
+- [ ] Maximize Distance to Closest Person
+- [ ] Line Reflection of
+- [ ] Longest Subarray of 1's After Deleting One Element
+- [ ] One Edit Distance
+- [ ] Flatten Nested List Iterator
+- [ ] Permutation in String
+- [ ] Interval List Intersections ✶
+- [ ] Move Zeroes ⭑
+- [ ] Group Anagrams
+- [ ] String Compression
+- [ ] Subarray Sum Equals K
+- [ ] Squares of a Sorted Array
+- [ ] Merge Intervals
+- [ ] Minimum Window Substring
+- [ ] Binary Tree Zigzag Level Order Traversal ✶
+- [ ] Reverse Words in a String III
+- [ ] Find All Anagrams in a String
+- [ ] Generate Parentheses✶
+- [ ] Number of Islands ✶
+- [ ] Is Subsequence✶
+- [ ] Longest Substring Without Repeating Characters *
+- [ ] LRU Cache
+- [ ] Two Sum✶
