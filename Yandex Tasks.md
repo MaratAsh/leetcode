@@ -4,7 +4,7 @@
 - [x] Trapping Rain Water
 - [x] Validate Binary Search Tree
 - [x] [Single Number](https://leetcode.com/problems/single-number/description/)
-- [ ] [One Edit Distance](https://leetcode.com/problems/edit-distance/description/) [solution](./edit-distance/)
+- [x] [One Edit Distance](https://leetcode.com/problems/edit-distance/description/) [solution](./edit-distance/)
 - [ ] Reverse Linked List
 - [ ] Summary Ranges
 - [ ] Valid Anagram
