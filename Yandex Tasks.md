@@ -1,11 +1,11 @@
-- [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [solution](./longest-substring-without-repeating-characters/)
-- [x] Valid Parentheses
-- [x] Merge Two Sorted Lists
-- [x] Trapping Rain Water
-- [x] Validate Binary Search Tree
+- [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ([solution](./longest-substring-without-repeating-characters/))
+- [x] Valid Parentheses 
+- [x] Merge Two Sorted Lists 
+- [x] Trapping Rain Water 
+- [x] Validate Binary Search Tree 
 - [x] [Single Number](https://leetcode.com/problems/single-number/description/)
-- [x] [One Edit Distance](https://leetcode.com/problems/edit-distance/description/) [solution](./edit-distance/)
-- [ ] Reverse Linked List
+- [x] [One Edit Distance](https://leetcode.com/problems/edit-distance/description/) ([solution](./edit-distance/))
+- [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) ([solution](./reverse-linked-list/))
 - [ ] Summary Ranges
 - [ ] Valid Anagram
 - [ ] Move Zeroes
