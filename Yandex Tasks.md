@@ -1,37 +1,31 @@
+2023 January [source](https://i.imgur.com/VtHZVeu.png)
+
 - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ([solution](./longest-substring-without-repeating-characters/))
-- [x] Valid Parentheses 
-- [x] Merge Two Sorted Lists 
-- [x] Trapping Rain Water 
-- [x] Validate Binary Search Tree 
+- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [x] [Trapping Rain Water ](https://leetcode.com/problems/trapping-rain-water/)
+- [x] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) 
 - [x] [Single Number](https://leetcode.com/problems/single-number/description/)
 - [x] [One Edit Distance](https://leetcode.com/problems/edit-distance/description/) ([solution](./edit-distance/))
 - [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) ([solution](./reverse-linked-list/))
 - [x] [Summary Ranges](https://leetcode.com/problems/summary-ranges/) ([solution](./summary-ranges/))
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) ([solution](./valid-anagram/))
-- [ ] Move Zeroes
-- [ ] Line Reflection
-- [ ] Is Subsequence
-- [ ] Find All Anagrams in a String
-- [ ] String Compression
-- [ ] Max Consecutive Ones II
-- [ ] Subarray Sum Equals K
-- [ ] Permutation in String
-- [ ] Max Stack
-- [ ] Maximize Distance to Closest Person
-- [ ] Longest Subarray of 1's After Deleting One Element
+- [x] [Move Zeroes](https://leetcode.com/problems/move-zeroes/) ([solution](./move-zeroes/))
+- [ ] [Line Reflection](https://leetcode.com/problems/line-reflection/) ✶ ([solution](./line-reflection/))
+- [ ] [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+- [ ] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+- [ ] [String Compression](https://leetcode.com/problems/string-compression/)
+- [ ] [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) ✶ 
+- [ ] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+- [ ] [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+- [ ] [Max Stack](https://leetcode.com/problems/max-stack/) ✶ 
+- [ ] [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)
+- [ ] [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
 
-2023 January [source](https://i.imgur.com/VtHZVeu.png)
 
-- [ ] Maximize Distance to Closest Person
-- [ ] Line Reflection of
-- [ ] Longest Subarray of 1's After Deleting One Element
-- [ ] One Edit Distance
 - [ ] Flatten Nested List Iterator
-- [ ] Permutation in String
 - [ ] Interval List Intersections ✶
-- [ ] Move Zeroes ⭑
 - [ ] Group Anagrams
-- [ ] String Compression
 - [ ] Subarray Sum Equals K
 - [ ] Squares of a Sorted Array
 - [ ] Merge Intervals
@@ -41,7 +35,7 @@
 - [ ] Find All Anagrams in a String
 - [ ] Generate Parentheses✶
 - [ ] Number of Islands ✶
-- [ ] Is Subsequence✶
+- [ ] Is Subsequence ✶
 - [ ] Longest Substring Without Repeating Characters *
 - [ ] LRU Cache
-- [ ] Two Sum✶
+- [ ] Two Sum ✶
