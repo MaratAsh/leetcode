@@ -1,5 +1,8 @@
 # LEETCODE
 
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/maratash?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/maratash?theme=unicorn&extension=activity)
+
 ## Levels
 
 ### Easy
